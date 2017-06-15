@@ -6,7 +6,7 @@
 
 Обновить свой репозиторий из репозитория Академии с помощью программы [GitHub Desktop](https://desktop.github.com) можно так:
 
-- Откройте ваш локальный репозиторий в программе GitHub Desktop.
+- Откройте ваш локальный репозиторий в программе GitHub Desktop.7
 
 <img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/14426732/dde27180-0001-11e6-8d07-915ec01c6389.png">
 
